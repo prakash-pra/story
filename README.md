@@ -1,5 +1,2 @@
-# story
-my new story
-#completed all chapter
-  1. chpater 1
-  2. chapter 2
+# Example site
+this is a simple readme file in github for story repo.
