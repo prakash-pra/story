@@ -12,7 +12,7 @@ this is a simple **readme** file in github for story repo.
   * Item 2a
   * Item 2b
 
-  #This is a order list.
+## This is a order list .
   1. Item 1
   1. Item 2
   1. Item 3
