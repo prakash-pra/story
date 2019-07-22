@@ -49,3 +49,17 @@ function fancyAlert(arg) {
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+# Hello Markdown in VS Code!
+
+This is a simple introduction to compiling Markdown in VS Code.
+
+Things you'll need:
+
+* [Node.js](https://nodejs.org)
+* [markdown-it](https://www.npmjs.com/package/markdown-it)
+* [tasks.json](/docs/editor/tasks)
+
+## Section Title
+
+> This block quote is here for your information.
