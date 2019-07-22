@@ -23,6 +23,6 @@ this is a simple **readme** file in github for story repo.
   http://github.com - automatic!
   [GitHub](http://github.com)
 
-# Blockquotes
+### Blockquotes
   As Kanye West said:
   > We're living the future so the present is our past.
