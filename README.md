@@ -2,9 +2,7 @@
 this is a simple **readme** file in github for story repo.
 
 * this is meant to be an example
-* hey markdown is pretty cool 
-* documentation make lot easy
-* great to have such a nice feature
+
 
 # This is a unorder list .
 * Item 1
@@ -20,7 +18,7 @@ this is a simple **readme** file in github for story repo.
       1. Item 3b
 
 # logo
-  http://github.com - automatic!
+  http://github.com 
   [GitHub](http://github.com)
 
 ### Blockquotes
